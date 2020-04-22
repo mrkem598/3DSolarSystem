@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Mohammed Kemal Solar System Project
 
-You can use the [editor on GitHub](https://github.com/mrkem598/3DSolarSystem/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can access the [current project status on GitHub](https://mrkem598.github.io/3DSolarSystem/) to preview the website 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
